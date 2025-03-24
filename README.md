@@ -31,7 +31,7 @@ I'm open to new opportunities where I can leverage my skills in Flutter developm
         <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" style="border-radius: 20px;">
     </a>
     <a href="https://www.instagram.com/rehmanflutter/" target="_blank">
-        <img src="https://img.shields.io-badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" style="border-radius: 20px;">
+        <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" style="border-radius: 20px;">
     </a>
 </div>
 
